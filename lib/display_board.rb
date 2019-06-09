@@ -2,8 +2,8 @@
 # out the current state.
 
 def display_board(board)
-   board == [" "," "," "," "," "," "," "," "," "]
-   puts 
+   board == [0]
+   
 end
 
 
