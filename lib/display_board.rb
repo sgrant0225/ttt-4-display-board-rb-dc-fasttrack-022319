@@ -2,7 +2,7 @@
 # out the current state.
 
 def display_board(board)
-  if board = [" "," "," "," "," "," "," "," "," "]
+  if board == [" "," "," "," "," "," "," "," "," "]
     puts " |  | "
   end 
 end
