@@ -3,6 +3,7 @@
 
 def display_board(board)
   if board == [" "," "," "," "," "," "," "," "," "]
+    puts "   |  |   "
   end 
 end
 
