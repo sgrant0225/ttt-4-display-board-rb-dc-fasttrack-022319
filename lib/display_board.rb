@@ -4,4 +4,5 @@
 def display_board(board)
    board == [" "," "," "," "," "," "," "," "," "]
 end
-puts display_board ( "   |   |   " )
+
+display_board ( "   |   |   " )
